@@ -8,8 +8,8 @@ code that tools like Claude Code generate, and I own product, testing and releas
 ## 📱 Shipped apps
 - **[Lanlo](https://apps.apple.com/ca/app/lanlo/id6791444880)**: a live GTA
   community map for local hazards, events and business deals. 4 releases since its August 2026 launch.
-- **[Dare Dare Dare](https://apps.apple.com/ca/app/dare-dare-dare/id6794215560)**:
-  a party card game built around fitness dares.
+- **[Bank or Burn](https://apps.apple.com/ca/app/dare-dare-dare/id6794215560)**:
+  a party card game built around fitness dares (formerly Dare Dare Dare).
 
 ## 🛠 Skills
 - **Web:** HTML, CSS, JavaScript (Codecademy Front-End Engineer certification)
