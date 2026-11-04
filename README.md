@@ -11,6 +11,11 @@ code that tools like Claude Code generate, and I own product, testing and releas
 - **[Bank or Burn](https://apps.apple.com/ca/app/dare-dare-dare/id6794215560)**:
   a party card game built around fitness dares (formerly Dare Dare Dare).
 
+## 🚧 In progress
+- **NextBid**: a mobile auction marketplace for Cambodia with live bidding,
+  built with React Native/Expo, Supabase and a Next.js admin dashboard.
+  English, Khmer and Chinese.
+
 ## 🛠 Skills
 - **Web:** HTML, CSS, JavaScript (Codecademy Front-End Engineer certification)
 - **Apps:** iOS with Xcode/Swift, AI-assisted development (Claude Code, ChatGPT)
